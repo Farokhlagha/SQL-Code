@@ -1,0 +1,7 @@
+SELECT FirstName, Age,
+CASE 
+    When Age > 30 Then 'old'
+	ELSE 'Young'
+End
+FROM [SQL Tutorial].dbo.EmployeeDemographics
+Where  Age is not Null
