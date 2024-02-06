@@ -1,8 +1,0 @@
-$ git config --global user.name "Farokhlagha"
-$ git config --global user.email "fl.razeghi@gmail.com"
-$ git clone https://github.com/Farokhlagha/SQLCode.git
-
-
-$ git add --all
-$ git commit -m "first commit"
-$ git push
