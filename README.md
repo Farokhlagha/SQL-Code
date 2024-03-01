@@ -1,2 +1,15 @@
-I will store all code or documents related to SQL in this repository.
-Please feel free to download and use all code as your own.
+# PySQL
+
+This repository include SQL projects.
+
+## SQL Start
+
+the project includes INSERT, SELECT, DELETE and UPDATE commands.
+
+## SQL Shop
+
+This SQL project include create dataset of customers and products of a online shop.
+
+## SQL To Do List
+
+
